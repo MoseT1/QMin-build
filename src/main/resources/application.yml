@@ -23,8 +23,8 @@ spring:
    datasource:
       driver-class-name: org.mariadb.jdbc.Driver
       url: jdbc:mariadb://34.64.184.142:3306/3q3min?charset=utf8
-      username: mose
-      password: mose1234
+      username: mariadb
+      password: 1111
       hikari:
          minimum-idle: 10
          maximum-pool: 20          
