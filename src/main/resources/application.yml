@@ -22,8 +22,8 @@ spring:
    # datasource
    datasource:
       driver-class-name: org.mariadb.jdbc.Driver
-      url: jdbc:mariadb://34.64.184.142:3306/3q3min?charset=utf8
-      username: mariadb
+      url: jdbc:mariadb://34.64.184.142:3306/mydb?charset=utf8
+      username: root
       password: 1111
       hikari:
          minimum-idle: 10
